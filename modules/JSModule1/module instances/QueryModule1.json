@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "67dbf5f9abfea1219e16d2d4_e4407ec8-4133-4678-b4fc-6db2bb1d7090",
+  "id": "JSModule1_QueryModule1",
+  "moduleUUID": "eefe5a8c-7f3c-49a2-b56a-a37c660077bd",
+  "packageUUID": "9a48ac60-6fa0-45bf-b0f5-472211f505da",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "MODULE",
+    "inputs": {
+      "input1": "1"
+    },
+    "moduleId": "JSModule1",
+    "moduleInputs": {
+      "znotmgvrzl": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "1",
+        "id": "znotmgvrzl",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      }
+    },
+    "name": "QueryModule1"
+  }
+}
