@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "67dbf5f9abfea1219e16d2d4_93a94791-61bf-4308-a716-9b08a376d38b",
+  "moduleUUID": "eefe5a8c-7f3c-49a2-b56a-a37c660077bd",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "1",
+            "id": "znotmgvrzl",
+            "label": "input1",
+            "propertyName": "inputs.input1"
+          }
+        ],
+        "id": "lughdopitr",
+        "sectionName": ""
+      }
+    ],
+    "name": "QueryModule1"
+  }
+}
