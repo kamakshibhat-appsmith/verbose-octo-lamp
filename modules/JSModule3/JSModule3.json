@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "67dbe6f0f8f692335406052a_6a238b8b-31c5-423e-bc1c-95a70de0f6e7",
-  "moduleUUID": "93fc4e40-ece7-4cab-91d3-907790b34713",
+  "gitSyncId": "67dbf5f9abfea1219e16d2d4_548f36a6-d1b3-4f64-898a-b5e2546538fd",
+  "moduleUUID": "9933fb57-2723-4ba2-b8d5-469a79facb03",
   "type": "JS_MODULE",
   "unpublishedModule": {
     "inputsForm": [
@@ -9,22 +9,22 @@
           {
             "controlType": "INPUT_TEXT",
             "defaultValue": "[]",
-            "id": "rrjivzvfjz",
+            "id": "eahhqxenko",
             "label": "myFun1",
             "propertyName": "inputs.myFun1"
           },
           {
             "controlType": "INPUT_TEXT",
             "defaultValue": "[]",
-            "id": "ydhmyglnmz",
+            "id": "ofweuswvss",
             "label": "myFun2",
             "propertyName": "inputs.myFun2"
           }
         ],
-        "id": "ccnyynmcav",
+        "id": "pteteddybv",
         "sectionName": ""
       }
     ],
-    "name": "JSModule1"
+    "name": "JSModule3"
   }
 }
